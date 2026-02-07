@@ -1,1 +1,161 @@
-<div align="center"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3D0e75b6%26height%3D250%26section%3Dheader%26text%3DADISA%2520NURENI%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DFull%2520Stack%2520Web%2520%2526%2520Web-App%2520Developer%26descSize%3D25%26descAlignY%3D60" width="100%" /></div><br /><div align="center"><a href="https://nureni-2023.github.io/ADISA-NURENI-PORTFOLIO-WEBSITE"><img src="https://www.google.com/search?q=https://img.shields.io/badge/View%2520Portfolio-0e75b6%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dwhite" /></a><a href="mailto:adisanureni2023@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Contact%2520Me-23272e%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a><a href="https://www.google.com/search?q=https://www.linkedin.com/in/adisa-nureni-olaniyi-9497b03a2"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a></div><br />👨‍💻 About MeA results-driven Full Stack Developer from Nigeria with a passion for building high-performance web applications. I bridge the gap between sophisticated backend logic and immersive frontend experiences. My focus is on clean code, scalable architecture, and user-centric design.🔭 Currently Building: High-fidelity fintech solutions and educational ERPs.🌱 Learning: Mastering Advanced Node.js Microservices and TypeScript.⚡ Fun Fact: I believe a well-designed UI is like a joke—if you have to explain it, it’s not that good.🛠️ Technical Arsenal🎨 Frontend Engineering<p align="left"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" /><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/GSAP-88CE02%3Fstyle%3Dfor-the-badge%26logo%3Dgreensock%26logoColor%3Dwhite" /></p>⚙️ Backend & Infrastructure<p align="left"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" /><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></p>🧰 Tools & Platforms<p align="left"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" /><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Netlify-00C7B7%3Fstyle%3Dfor-the-badge%26logo%3Dnetlify%26logoColor%3Dwhite" /></p>🚀 Featured Projects<table width="100%"><tr><td width="50%" valign="top"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/nureni-2023/nureni-2023/main/project-bank.png" onerror="this.src='https://www.google.com/search?q=https://images.unsplash.com/photo-1550565118-3d1428df732f%3Fauto%3Dformat%26fit%3Dcrop%26w%3D600%26q%3D80'" width="100%" style="border-radius:10px;"/><br /><h3>🏦 Aditech Bank Portal</h3><p>A sophisticated fintech interface with real-time tracking and responsive dashboards.</p><a href="https://aditechbank.netlify.app/"><b>Live Demo</b></a> | <a href="https://github.com/Nureni-2023"><b>Repo</b></a></td><td width="50%" valign="top"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/nureni-2023/nureni-2023/main/project-school.png" onerror="this.src='https://www.google.com/search?q=https://images.unsplash.com/photo-1509062522246-3755977927d7%3Fauto%3Dformat%26fit%3Dcrop%26w%3D600%26q%3D80'" width="100%" style="border-radius:10px;"/><br /><h3>🎓 Edu-Sync Management</h3><p>An enterprise-grade ERP for schools featuring student management and administrative tools.</p><a href="https://nureni-2023.github.io/SCHOOL-WEB/"><b>Live Demo</b></a> | <a href="https://github.com/Nureni-2023"><b>Repo</b></a></td></tr></table>📊 Engineering Metrics<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dnureni-2023%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" width="48%" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dnureni-2023%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" width="48%" /><br /><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dnureni-2023%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" width="97%" /></div>🤝 Let's Connect<p align="center"><a href="https://twitter.com/dev_aditech"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" /></a><a href="https://www.google.com/search?q=https://linkedin.com/in/adisa-nureni-olaniyi-9497b03a2"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a><a href="https://dev.to/dev_aditech"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Dev.to-0A0A0A%3Fstyle%3Dfor-the-badge%26logo%3Ddev.to%26logoColor%3Dwhite" /></a><a href="https://www.google.com/search?q=https://codepen.io/adisa-nureni-olaniyi"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Codepen-000000%3Fstyle%3Dfor-the-badge%26logo%3Dcodepen%26logoColor%3Dwhite" /></a></p><div align="center"><br /><a href="https://www.buymeacoffee.com/dev_aditech"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></div><br /><div align="center"><img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dtokyonight" width="100%" /></div><br /><div align="center"><sub>Last updated: 2024 • Built with 💙 in Nigeria</sub><br /><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Drect%26color%3D0e75b6%26height%3D2" width="100%" /></div>
+<h1 align="center">Hi 👋, I'm Adisa Nureni Olaniyi</h1>
+
+<h3 align="center">Full-Stack Web & Application Developer | Building Scalable Solutions from Nigeria 🇳🇬</h3>
+
+<p align="center">
+  <a href="https://github.com/nureni-2023"><img src="https://komarev.com/ghpvc/?username=nureni-2023&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile-views" /></a>
+  <a href="https://twitter.com/dev_aditech"><img src="https://img.shields.io/twitter/follow/dev_aditech?logo=twitter&style=flat-square&color=1DA1F2" alt="twitter-follow" /></a>
+  <img src="https://img.shields.io/badge/Available%20for-Freelance%20&%20Collaboration-blue?style=flat-square" alt="freelance" />
+</p>
+
+<!-- Optional: centered banner / hero image (you can replace with your own) -->
+<!-- <p align="center"><img src="https://github.com/nureni-2023/nureni-2023/blob/main/assets/hero-banner.png?raw=true" alt="Hero Banner" width="800"/></p> -->
+
+<!-- ===================================================================== -->
+<!-- ABOUT ME SECTION -->
+<!-- ===================================================================== -->
+
+<h2 align="left">👨‍💻 About Me</h2>
+
+- 🔭 Currently building modern full-stack applications with clean architecture and great UX
+- 🌱 Deepening expertise in **React**, **Node.js / Express**, TypeScript, and modern state management
+- 👯 Open to collaborate on **open-source**, **SaaS**, education platforms, fintech or impactful web apps
+- 🤝 Looking for help / contributors on Arabic School Management System & similar education tools
+- 💬 Ask me anything about **JavaScript ecosystem**, React patterns, Vue, GSAP animations, responsive design
+- 📫 Reach me: **adisanureni2023@gmail.com** or via any social link below
+- 📄 [View my full experience & resume on LinkedIn](https://www.linkedin.com/in/adisa-nureni-olaniyi-9497b03a2/)
+- ⚡ Fun fact: I believe good code should be **readable**, **funny comments welcome** 😄
+
+<!-- ===================================================================== -->
+<!-- CONNECT / SOCIAL SECTION -->
+<!-- ===================================================================== -->
+
+<h2 align="left">🌐 Connect with Me</h2>
+
+<p align="left">
+  <a href="https://twitter.com/dev_aditech" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/adisa-nureni-olaniyi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://dev.to/dev_aditech" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/adisa-nureni-olaniyi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://instagram.com/dev_aditech" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/dev_aditech" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <!-- Add more if relevant: CodePen, Dribbble, Facebook, etc. -->
+</p>
+
+<!-- ===================================================================== -->
+<!-- SKILLS & TECHNOLOGIES – use shields.io style for professionalism -->
+<!-- ===================================================================== -->
+
+<h2 align="left">🛠️ Tech Stack & Skills</h2>
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/GSAP-FF5733?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+
+  <!-- Backend / Other -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+  <!-- Design / Tools -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF7C00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" alt="Illustrator" />
+</p>
+
+<!-- ===================================================================== -->
+<!-- GITHUB STATS – modern & clean layout -->
+<!-- ===================================================================== -->
+
+<h2 align="left">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nureni-2023&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nureni-2023&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nureni-2023&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>
+
+<!-- Optional advanced trophy (looks professional when you have contributions) -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nureni-2023&theme=radical&no-frame=true&margin-w=15" alt="Trophies" /></a>
+</p>
+
+<!-- ===================================================================== -->
+<!-- FEATURED PROJECTS -->
+<!-- ===================================================================== -->
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>AdiTech Bank</strong></td>
+    <td>Modern online banking dashboard simulation with clean UI/UX</td>
+    <td>React • Tailwind • GSAP</td>
+    <td><a href="https://aditechbank.netlify.app/">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><strong>School Management System</strong></td>
+    <td>Education platform (looking for collaborators!)</td>
+    <td>HTML • CSS • JavaScript</td>
+    <td><a href="https://nureni-2023.github.io/SCHOOL-WEB/">Live</a> • <a href="https://github.com/Nureni-2023/SCHOOL-WEB">Repo</a></td>
+  </tr>
+  <tr>
+    <td><strong>Personal Portfolio</strong></td>
+    <td>My professional showcase with blog & projects</td>
+    <td>HTML • CSS • JavaScript</td>
+    <td><a href="https://nureni-2023.github.io/ADISA-NURENI-PORTFOLIO-WEBSITE/">Live</a></td>
+  </tr>
+</table>
+
+<p>→ All projects: <a href="https://github.com/Nureni-2023?tab=repositories">github.com/Nureni-2023</a></p>
+
+<!-- ===================================================================== -->
+<!-- BLOG / WRITING (if you start writing more) -->
+<!-- ===================================================================== -->
+
+<h2 align="left">✍️ Latest Articles & Thoughts</h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- (use https://github.com/marketplace/actions/blog-post-workflow to auto-update) -->
+<!-- BLOG-POST-LIST:END -->
+
+<p>→ Read more on <a href="https://dev.to/dev_aditech">Dev.to</a></p>
+
+<!-- ===================================================================== -->
+<!-- SUPPORT / BUY ME A COFFEE -->
+<!-- ===================================================================== -->
+
+<h2 align="left">☕ Support My Work</h2>
+
+<p>If you find my projects or content helpful:</p>
+
+<p>
+  <a href="https://www.buymeacoffee.com/dev_aditech"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
+  <a href="https://ko-fi.com/dev_aditech"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting! Let's build something great together 🚀</i><br><br>
+  Last updated: February 2026
+</p>
